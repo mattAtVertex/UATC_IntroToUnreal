@@ -1,0 +1,8 @@
+# Overview of Object-Oriented Concepts
+
+<p><a class="instructure_file_link inline_disabled" title="firstProjectGames.zip" href="https://vertexschool.instructure.com/courses/288/files/17146?verifier=iG4E4rzq6R4ASg13psuiDwlwgv41jggh1S1TK7ts&amp;wrap=1" target="_blank" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17146" data-api-returntype="File">Here you can download the sample project for this session.&nbsp;</a></p>
+<p><a class="inline_disabled" href="https://drive.google.com/drive/folders/1hfaRtYjZafSIJocdha52KC7NOznLshpP?usp=sharing" target="_blank">Extra Resources</a></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17099/preview?verifier=SD6kdNRQlysC4bm3ph5bVA8JtCImHnnAroU7TgzP" alt="oop1.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17099" data-api-returntype="File"></p>
+<p>&nbsp;</p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17100/preview?verifier=suTChIig5lqob9AaE288IcVKGadIrmGiSkpyIXbm" alt="oop2.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17100" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17101/preview?verifier=VBmJygMdLdFdDDXqNx9M0AhwW435BsPHiphcOs0L" alt="oop3.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17101" data-api-returntype="File"></p>
