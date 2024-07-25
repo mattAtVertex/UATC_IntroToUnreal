@@ -1,0 +1,11 @@
+# CONTENT WORKFLOW
+
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17060/preview?verifier=4WO1C8K4iOufEGH5h4KokGmnSTPZBHtwJKhcgNYg" alt="cwork1.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17060" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17061/preview?verifier=6CTgjKI01B9Vo6dlRbmh5nBwieOXkhxHTM5Ct0v5" alt="cwork2.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17061" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17062/preview?verifier=EW3KlyczmZnVGNmGS3yOod24YmBGCVIoH5UuWQij" alt="cwork3.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17062" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17063/preview?verifier=DNi39HWYLLbRAlSonTvsPkHtKszF0bjEjDPgrPdf" alt="cwork4.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17063" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17064/preview?verifier=Zpt2M8xTKkbnAaa0EchN83P34RneRo5wPKOtbsaj" alt="cwork5.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17064" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17065/preview?verifier=FotG2Fz2ZqpNBXEJeawROwlDgUIzPR9LH0g3QcoN" alt="cwork6.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17065" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17066/preview?verifier=4yfZZlJFMjvG6fTmHUcaLLywof7Mhe6PXaf4EKND" alt="cwork7.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17066" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17067/preview?verifier=3ZVHPl7dWqPHjEIkMYVrxwIPxd6OgebgU5KhH8TP" alt="cwork8.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17067" data-api-returntype="File"></p>
+<p>&nbsp;</p>
