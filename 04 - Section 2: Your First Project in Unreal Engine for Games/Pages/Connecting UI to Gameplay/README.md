@@ -1,0 +1,6 @@
+# Connecting UI to Gameplay
+
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17137/preview?verifier=ubdNpK7Rb8WFHLNhl593Ri7CSPoiPWaRt4B8hWND" alt="ug1.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17137" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17138/preview?verifier=RX5cM3V7DdQvfu4sgUlCVJqpTx2dRyJiO4ULoQVQ" alt="ug2.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17138" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17139/preview?verifier=9iOwWPfaUsg09vK2YEkP827rWXXYNT3yPozIi3xO" alt="ug3.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17139" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17140/preview?verifier=zeTSTQeW0iQRFdndaDrDrnU24vz3A4gn80QvP2Mi" alt="ug4.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17140" data-api-returntype="File"></p>
