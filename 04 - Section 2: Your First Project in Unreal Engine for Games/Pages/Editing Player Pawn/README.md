@@ -1,0 +1,7 @@
+# Editing Player Pawn
+
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17118/preview?verifier=SDCV39AWl58CMAswNixBicksaprar9pcpjdARjky" alt="pp1.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17118" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17119/preview?verifier=MVvin7Evk3ay2g8VxzYokoP6HiPwmv1Pb7C7z1RR" alt="pp2.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17119" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17120/preview?verifier=GU2zwzj9wdaKpVmowHD2bW9tx7GB6MXvxDOb1RkY" alt="pp4.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17120" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17121/preview?verifier=Y4QeXCZAN4r0wBZGfwUCZJDVxBvc7Pg9fPhqtfHd" alt="pp5.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17121" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17122/preview?verifier=8Ks74NcjYsilXBKtZhrgWBF7aEjbwRETA2bOCd8j" alt="pp6.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17122" data-api-returntype="File"></p>
