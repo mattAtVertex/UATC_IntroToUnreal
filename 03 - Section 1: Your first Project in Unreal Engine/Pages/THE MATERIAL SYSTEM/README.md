@@ -1,0 +1,9 @@
+# THE MATERIAL SYSTEM
+
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17092/preview?verifier=PXKPtStVFuZQ9iCwRFS0o2iI2y7rULY92O4ni5lH" alt="ms1.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17092" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17093/preview?verifier=XwIwWB9IlPJnrolx4oAAeDHrirM565fyEhw2WXRw" alt="ms2.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17093" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17094/preview?verifier=vpaCjXcmKGr1FvnmI9gqF2dz0C5H1Xd2rIDK1jCC" alt="ms3.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17094" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17095/preview?verifier=RBvcb7KQ5J77tqoByB61Irp6N9IxQdSkoPTZPRUO" alt="ms4.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17095" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17096/preview?verifier=VuFF9ib7rZR7oqo3RXmVcF1dVhpSHkUwL2RvxkEB" alt="ms5.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17096" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17097/preview?verifier=dTjlcEuiddXeWF7NSaURKdvONW5807SxGuZFbFYr" alt="ms6.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17097" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17098/preview?verifier=L0Qqi0IhPbjah2tEAc6wrND4rRJVcCyFl8VJiJST" alt="ms7.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17098" data-api-returntype="File"></p>
