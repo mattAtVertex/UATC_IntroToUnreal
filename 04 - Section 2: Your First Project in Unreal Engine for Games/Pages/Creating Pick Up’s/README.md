@@ -1,0 +1,6 @@
+# Creating Pick Up’s
+
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17123/preview?verifier=gPnllQUiv6TPZmlylYoTb9IuydbgyweQMQiEMSkr" alt="pu1.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17123" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17124/preview?verifier=C2mQJ6JFi3UpdTeS6eTDj0pt3Pd2TZpFfTZtwHHx" alt="pu2.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17124" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17125/preview?verifier=9KX5bjYXku0KiE3ljA3JqMsO3ek0fIG2yWqdNLgj" alt="pu3.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17125" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/288/files/17126/preview?verifier=8zZu9jw6WCpRN0nCOInCfz9jDCAZpmWCtnQQf4H8" alt="pu4.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/288/files/17126" data-api-returntype="File"></p>
